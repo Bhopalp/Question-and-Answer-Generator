@@ -28,7 +28,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 templates = Jinja2Templates(directory="templates")
 
-os.environ["OPENAI_API_KEY"] = "sk-proj-7BLPigTHhFDtVkKO5IeiT3BlbkFJrQEZD2Ypv6fahRdkkkl6"
+os.environ["OPENAI_API_KEY"] = ""
 
 def count_pdf_pages(pdf_path):
     try:
