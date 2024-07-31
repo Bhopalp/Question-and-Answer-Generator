@@ -1,0 +1,64 @@
+Question,Answer
+"1. What are the three main components that make up software, according to the text?","According to the text, the three main components that make up software are:
+1. Instructions (computer programs) that provide desired features, function, and performance.
+2. Data structures that enable the programs to manipulate information.
+3. Descriptive information in both hard copy and virtual forms that describes the operation and use of the programs."
+2. What are the characteristics of software that differentiate it from hardware?,"The characteristics of software that differentiate it from hardware are:
+
+1. Software is developed or engineered, not manufactured in the classical sense.
+2. Software doesn't ""wear out"" like hardware does.
+3. While the industry is moving towards component-based construction, most software is still custom-built."
+3. What are the seven software application domains mentioned in the text?,"The seven software application domains mentioned in the text are:
+
+1. System software
+2. Application software
+3. Engineering/scientific software
+4. Embedded software
+5. Product-line software
+6. Web applications (WebApps)
+7. AI software"
+4. What are some reasons for the evolution of legacy software systems?,"Some reasons for the evolution of legacy software systems include:
+
+1. Adapting to new computing environments or technology.
+2. Enhancing the software to meet new business requirements.
+3. Extending the software to make it interoperable with modern systems or databases.
+4. Re-architecting the software to make it viable within a network environment."
+5. Describe the unique nature of WebApps as discussed in the text.,"The unique nature of WebApps, as discussed in the text, is that they span a wide array of applications. In their simplest form, WebApps can be little more than a set of linked hypertext files that present information using text and limited graphics. This highlights the versatility and accessibility of WebApps, which can cater to various needs and audiences."
+6. What are the five framework activities in the software engineering process?,"The five framework activities in the software engineering process are:
+
+1. Communication
+2. Planning
+3. Modeling
+4. Construction
+5. Deployment"
+"7. Explain the differences between the linear, iterative, evolutionary, and parallel process flows in software development.","In software development, the differences between linear, iterative, evolutionary, and parallel process flows are as follows:
+
+1. Linear Process Flow: In a linear process flow, the software development activities are executed in a sequential order, starting from communication and progressing through planning, modeling, construction, and deployment. Each activity is completed before moving on to the next one. This approach is more traditional and follows a step-by-step progression.
+
+2. Iterative Process Flow: In an iterative process flow, one or more activities may be repeated before proceeding to the next stage. This allows for feedback loops and refinements to be made at each iteration. It is a cyclic approach where each iteration improves upon the previous one, leading to incremental enhancements in the software.
+
+3. Evolutionary Process Flow: An evolutionary process flow executes the software development activities in a circular manner. Each circuit through the activities results in a more complete version of the software. This approach is characterized by continuous refinement and enhancement of the software product over multiple cycles.
+
+4. Parallel Process Flow: In a parallel process flow, one or more activities are executed simultaneously or in parallel with other activities. For example, modeling for one aspect of the software might be done concurrently with construction for another aspect. This approach can help in speeding up the development process by working on different parts of the software concurrently.
+
+Each of these process flows has its own advantages and is suited for different types of software development projects based on the project requirements, complexity, and stakeholder needs."
+8. What are the key principles proposed by David Hooker for software engineering practice?,"The key principles proposed by David Hooker for software engineering practice are as follows:
+
+1. The First Principle: The Reason It All Exists
+2. The Second Principle: KISS (Keep It Simple, Stupid!)
+3. The Third Principle: Maintain the Vision
+4. The Fourth Principle: What You Produce, Others Will Consume
+5. The Fifth Principle: Be Open to the Future
+6. The Sixth Principle: Plan Ahead for Reuse
+7. The Seventh Principle: Think!"
+"9. What are some common myths related to software management, customers, and practitioners?","Some common myths related to software management, customers, and practitioners include:
+
+1. Management Myth: Believing that having a book of standards and procedures for building software will provide all the necessary knowledge and resources.
+2. Management Myth: Thinking that outsourcing a software project to a third party will relieve all responsibilities and ensure a successful project.
+3. Customer Myth: Assuming that a general statement of objectives is sufficient to start writing programs without clear and comprehensive requirements.
+4. Practitioner Myth: Believing that once a program is written and working, the job is done, when in reality, a significant amount of effort is often needed post-delivery for maintenance and updates."
+10. Describe the Waterfall model and its application in software development.,"The Waterfall model is a traditional and linear approach to software development where the process flows sequentially through several distinct phases. It starts with gathering and documenting all requirements upfront, followed by design, implementation, testing, and deployment in a step-by-step manner. Each phase must be completed before moving on to the next, and changes are not easily accommodated once a phase is finished.
+
+In the Waterfall model, the requirements are assumed to be well-understood and stable, making it suitable for projects with clear and fixed objectives. It is often used for projects where the scope is well-defined, and changes are expected to be minimal. The model is commonly applied in scenarios like enhancements to existing systems, where the requirements are known and unlikely to change significantly.
+
+The Waterfall model provides a systematic and structured approach to software development, ensuring that each phase is completed thoroughly before progressing to the next. However, it can be rigid and less adaptable to changes that may arise during the development process."
